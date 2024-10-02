@@ -40,7 +40,7 @@ This dashboard provides a comprehensive analysis of the Indian Premier League (I
 
 This dashboard presents an in-depth analysis of inventory performance using **ABC** and **XYZ** methodologies, along with key inventory metrics and forecasting insights.
 
-## ABC Analysis
+### ABC Analysis
 - **Purpose**: ABC analysis classifies inventory based on consumption value:
   - **A** items (High Value): A small number of items with high consumption value.
   - **B** items (Medium Value): Items with moderate consumption value.
@@ -48,25 +48,47 @@ This dashboard presents an in-depth analysis of inventory performance using **AB
   
   The Pareto principle (80/20 rule) applies, where A items contribute to the highest revenue but represent the smallest portion of SKU IDs.
 
-## XYZ Analysis
+### XYZ Analysis
 - **Purpose**: XYZ analysis categorizes items based on demand variability:
   - **X** items: Low demand variability, easier to forecast.
   - **Y** items: Moderate variability, often due to known factors.
   - **Z** items: High variability, hardest to forecast.
 
-## Inventory Metrics
+### Inventory Metrics
 - **Inventory Turnover Ratio**: Measures how frequently inventory is replaced. A higher ratio indicates efficient stock management.
 - **Reorder Analysis**: Shows how many items are in need of reordering, contributing to stock control efficiency.
 
-## Key Insights
+### Key Insights
 - **Value Distribution**: Highlights the share of total warehouse value and SKU count by ABC category.
 - **Demand Forecast**: Projects future demand based on historical data, helping in proactive stock management.
 - **Top Products**: Identifies the top products under various categories (high revenue, uniform demand) based on past performance.
 
-## Inventory Performance Breakdown
+### Inventory Performance Breakdown
 - **Warehouse Value**: Shows total inventory value in the warehouse.
 - **ABC-XYZ Based Metrics**: Provides a combination of ABC and XYZ analysis for insights into both revenue and stock performance.
 - **In-Stock vs. Out-of-Stock Distribution**: Illustrates the current inventory status, emphasizing items that are below reorder points or out of stock.
 
 This dashboard provides a holistic view of inventory management by combining consumption value and demand variability, empowering businesses to optimize their stock management strategies.
+
+# Pizza Sales Analysis Dashboard Overview
+
+This dashboard provides insights into pizza sales performance by category, size, and other key metrics to help drive business decisions.
+
+### Key Insights
+1. **Average Price per Order**: Displays the average order value across different pizza categories (Chicken, Supreme, Veggie, Classic).
+2. **Pizza Size Distribution**: Shows the count of orders by size (S, M, L, XL, XXL) for each category, with classic pizza having the highest order count for small sizes.
+3. **Quarterly Sales Trends**: The 2nd and 3rd quarters show stronger sales performance, emphasizing the need to analyze seasonal buying patterns.
+4. **Top Days for Sales**: Friday, Thursday, and Saturday are the top days for sales, providing opportunities to maximize profitability through targeted promotions.
+5. **Growth**: Sales are growing month-over-month, indicating a positive trend in business growth.
+
+### Sales Breakdown
+- **Category Contribution**: Highlights the contribution of each pizza category (Classic, Supreme, Veggie, Chicken) to overall sales, with Classic pizza having the highest number of orders.
+- **Top Pizzas in Each Category**: Displays the top-selling pizzas within each category, providing insights into customer preferences.
+- **Orders per Month and Day**: Visualizes order trends by month and day, showing peak periods of demand.
+- **Pizza Size Contribution**: Analyzes the distribution of pizza sizes, with large and medium pizzas being the most popular.
+  
+### Year-to-Date Sales
+- **Sales by Quarter and Month**: Displays cumulative sales over time, showcasing consistent growth in total sales across the quarters.
+
+This dashboard helps businesses identify top-selling pizza categories, track customer buying behaviors, and plan for promotions to boost sales during high-demand periods.
 
