@@ -144,3 +144,55 @@ Example:
 - **Using CONTAINSROW**:  
 ```CALCULATE([Total Sales], CONTAINSROW({"1997", "1996"}, DimDate[YEAR]))```
 
+## CONTAINSTRING, CONTAINSTRINGEXACT
+
+**Syntax:**
+
+```CONTAINSTRING (Text, "String")```  
+```CONTAINSTRINGEXACT (Text, "String")```
+
+- `CONTAINSTRING`: Case-insensitive.
+- `CONTAINSTRINGEXACT`: Case-sensitive.
+
+**Examples:**
+
+- `CONTAINSTRING(text, "Horse")` -> TRUE
+- `CONTAINSTRINGEXACT(text, "horse")` -> FALSE
+
+---
+
+## CONVERT
+
+**Syntax:**
+
+```CONVERT(<Expression>, <Datatype>)```
+
+- **Datatypes**: INTEGER, DOUBLE, STRING, BOOLEAN, CURRENCY, DATETIME.
+
+---
+
+## CROSSFILTER
+
+**Syntax:**
+
+```CROSSFILTER(<columnName1>, <columnName2>, <direction>)```
+
+[More details](https://curbal.com/blog/glossary/crossfilter-dax)
+
+---
+
+## CROSSJOIN
+
+**Syntax:**
+
+```CROSSJOIN(<table>, <table>[, <table>]…)```
+
+**Example:**
+
+```DAX
+CROSSJOIN(
+    SELECTCOLUMNS(Products, "ProductName", Products[ProductName]),
+    SELECTCOLUMNS(Regions, "RegionName", Regions[RegionName])
+)
+
+
