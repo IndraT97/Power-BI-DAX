@@ -1,3 +1,8 @@
+# Primary Objective
+
+*My main goal in creating this repository is to demonstrate my understanding of DAX language which is used for creating measure and Columns. 
+These are individually curated notes which I generally refer to while working with DAX langauge*
+
 # DAX Functions and Usage
 
 ## ALL
@@ -16,11 +21,10 @@ When wrapped in `ALL()`, it will ignore the filter and return all rows from the 
 ```CALCULATE([Sales], ALL(Customer))```  Removes filters from all columns.
   
 - **Remove Specific filter**:  
-```CALCULATE([Sales], ALL(Customer[Country]))```  Filters the Sales by the column, ignoring the Country filter.
+```CALCULATE([Sales], ALL(Customer[Country]))``` Filter Sales by the column present in the Visual but not by Country Column
 
 - **Remove All filters Except**:  
-```CALCULATE([Sales], ALLEXCEPT(Customer, Customer[Country]))```  
-Removes all filters except the one applied to the `Country` column.
+```CALCULATE([Sales], ALLEXCEPT(Customer, Customer[Country]))```  Filter Sales by Country column and ignore filter by any other column
 
 ---
 
