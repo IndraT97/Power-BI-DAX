@@ -34,58 +34,58 @@ Below are the questions answered using complex DAX measures.
 
 ## Challenge 2 Questions:
 
-1. **Day 1**: Country/s with most tournaments won
-2. **Day 2**: Host country/s that won
-3. **Day 3**: Longest gap in years between tournaments
-4. **Day 4**: Country(s) with highest number of hosted tournaments
-5. **Day 5**: Country/s with most second place finishes
-6. **Day 6**: Country/s with most World Cup appearances
-7. **Day 7**: Country/s with most finishes in the top two
-8. **Day 8**: Longest gap in years between titles
-9. **Day 9**: Country/s with most consecutive championship wins
-10. **Day 10**: Country/s with most finals played but never lost
-11. **Day 11**: Players with most tournaments played
-12. **Day 12**: Player/s with most matches played
-13. **Day 13**: Youngest player/s when they first played
-14. **Day 14**: Youngest player/s on a final
-15. **Day 15**: Oldest captain/s
-16. **Day 16**: Player/s with most tournaments as captain
-17. **Day 17**: Player/s with most goals scored
-18. **Day 18**: Match/s with biggest goal margin
-19. **Day 19**: Most goals scored in a match for one team
-20. **Day 20**: Match/es with most goals scored for both teams
-21. **Day 21**: Match/es with highest scoring draw
-22. **Day 22**: Match/es with biggest goal margin in a final
-23. **Day 23**: Most and least goals in a tournament
-24. **Day 24**: Tournament with highest number of own goals
-25. **Day 25**: Highest average goals per match
+1. **Country/s with most tournaments won
+2. **Host country/s that won
+3. **Longest gap in years between tournaments
+4. **Country(s) with highest number of hosted tournaments
+5. **Country/s with most second place finishes
+6. **Country/s with most World Cup appearances
+7. **Country/s with most finishes in the top two
+8. **Longest gap in years between titles
+9. **Country/s with most consecutive championship wins
+10. **Country/s with most finals played but never lost
+11. **Players with most tournaments played
+12. **Player/s with most matches played
+13. **Youngest player/s when they first played
+14. **Youngest player/s on a final
+15. **Oldest captain/s
+16. **Player/s with most tournaments as captain
+17. **Player/s with most goals scored
+18. **Match/s with biggest goal margin
+19. **Most goals scored in a match for one team
+20. **Match/es with most goals scored for both teams
+21. **Match/es with highest scoring draw
+22. **Match/es with biggest goal margin in a final
+23. **Most and least goals in a tournament
+24. **Tournament with highest number of own goals
+25. **Highest average goals per match
 
 ---
 
 ## Challenge 3 Questions:
 
-1. **Day 1**: How many current products cost less than $20?
-2. **Day 2**: Which product is the most expensive?
-3. **Day 3**: What is the average unit price for our products?
-4. **Day 4**: How many products are above the average unit price?
-5. **Day 5**: How many products cost between $15 and $20?
-6. **Day 6**: What is the average number of products (not quantity) per order?
-7. **Day 7**: What is the order value in $ of open orders? (Not shipped yet)
-8. **Day 8**: How many orders are "single item" (only one product)?
-9. **Day 9**: Average sales per transaction (OrderID) for "Romer"?
-10. **Day 10**: How many days since "North/South" last placed an order?
-11. **Day 11**: How many customers have ordered only once?
-12. **Day 12**: How many new customers (first purchase in current year)?
-13. **Day 13**: How many lost customers (no purchases in current year)?
-14. **Day 14**: How many customers have NEVER purchased anything?
-15. **Day 15**: How many customers have purchased only "Queso Cabrales"?
-16. **Day 16**: How many products are out of stock?
-17. **Day 17**: How many products need to be restocked? (Based on inventory levels)
-18. **Day 18**: How many products on order need to be restocked?
-19. **Day 19**: What is the stocked value of the discontinued products?
-20. **Day 20**: Which vendor has the highest stock value?
-21. **Day 21**: How many employees (%) are female?
-22. **Day 22**: How many employees are 60 years old or over?
-23. **Day 23**: Which employee had the highest sales in 2022?
-24. **Day 24**: How many employees sold over $100k in 2022?
-25. **Day 25**: How many employees got hired in 1994?
+1. **How many current products cost less than $20?
+2. **Which product is the most expensive?
+3. **What is the average unit price for our products?
+4. **How many products are above the average unit price?
+5. **How many products cost between $15 and $20?
+6. **What is the average number of products (not quantity) per order?
+7. **What is the order value in $ of open orders? (Not shipped yet)
+8. **How many orders are "single item" (only one product)?
+9. **Average sales per transaction (OrderID) for "Romer"?
+10. **How many days since "North/South" last placed an order?
+11. **How many customers have ordered only once?
+12. **How many new customers (first purchase in current year)?
+13. **How many lost customers (no purchases in current year)?
+14. **How many customers have NEVER purchased anything?
+15. **How many customers have purchased only "Queso Cabrales"?
+16. **How many products are out of stock?
+17. **How many products need to be restocked? (Based on inventory levels)
+18. **How many products on order need to be restocked?
+19. **What is the stocked value of the discontinued products?
+20. **Which vendor has the highest stock value?
+21. **How many employees (%) are female?
+22. **How many employees are 60 years old or over?
+23. **Which employee had the highest sales in 2022?
+24. **How many employees sold over $100k in 2022?
+25. **How many employees got hired in 1994?
