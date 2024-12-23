@@ -5,7 +5,7 @@ This repository is a comprehensive showcase of Power BI dashboards, highlighting
 
 # Dashboards and Insights
 
-# Data Professional Survey Breakdown Dashboard
+# 1 - Data Professional Survey Breakdown Dashboard
 
 This dashboard provides a breakdown of a survey among **630 data professionals**, highlighting key insights:
 
@@ -14,7 +14,7 @@ This dashboard provides a breakdown of a survey among **630 data professionals**
 - **Programming Preferences**: Python is the most popular language, followed by R and SQL.
 - **Job Satisfaction**: Average scores for work-life balance and salary satisfaction are **5.74** and **4.27**, respectively.
 
-# IPL Summary Dashboard
+# 2 - IPL Summary Dashboard
 
 This dashboard provides a comprehensive analysis of the Indian Premier League (IPL) through multiple perspectives, including matches, teams, players, and venues. The key sections and insights are:
 
@@ -36,7 +36,7 @@ This dashboard provides a comprehensive analysis of the Indian Premier League (I
 - **Top Performers**: Highlights the top bowlers by wickets and top batsmen by runs across all IPL seasons.
 - **Top Hitters**: Displays the top players known for hitting boundaries.
 
-# Inventory Analysis Dashboard Overview
+# 3 - Inventory Analysis Dashboard Overview
 
 This dashboard presents an in-depth analysis of inventory performance using **ABC** and **XYZ** methodologies, along with key inventory metrics and forecasting insights.
 
@@ -70,7 +70,7 @@ This dashboard presents an in-depth analysis of inventory performance using **AB
 
 This dashboard provides a holistic view of inventory management by combining consumption value and demand variability, empowering businesses to optimize their stock management strategies.
 
-# Pizza Sales Analysis Dashboard Overview
+# 4 - Pizza Sales Analysis Dashboard Overview
 
 This dashboard provides insights into pizza sales performance by category, size, and other key metrics to help drive business decisions.
 
